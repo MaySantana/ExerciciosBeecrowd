@@ -1,4 +1,4 @@
-//Programa sobre ler o código e o preço de um produto e o total pago, Java
+//Leitura do código e do preço de um produto e cálculo do total pago, Java
 //May Santana, 2022
 
 import java.util.*;
