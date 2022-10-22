@@ -1,4 +1,4 @@
-//Média Aritmética de dois números, Java
+//Média Ponderada de dois números, Java
 //May Santana, 2021
 
 import java.util.*;
