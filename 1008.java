@@ -1,4 +1,4 @@
-//Programa sobre coletar informações de um funcionário, Java
+//Coleta de informações de um funcionário, Java
 //May Santana, 2022
 
 import java.util.*;
