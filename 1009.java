@@ -1,4 +1,4 @@
-//Programa sobre coletar informações de um vendedor e calcular o salário, Java
+//Coleta de informações de um vendedor e cálculo do salário, Java
 //May Santana, 2022
 
 import java.util.*;
