@@ -1,5 +1,5 @@
 //Programa sobre coletar informações de um vendedor, Java
-//May Santana, 2021
+//May Santana, 2022
 
 import java.util.*;
 import java.text.DecimalFormat;
