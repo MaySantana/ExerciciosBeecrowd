@@ -1,3 +1,3 @@
 # ExerciciosBeecrowd
 
-Beecrowd codes in Java
+Beecrowd codes in Java and SQL
